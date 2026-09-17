@@ -1,0 +1,12 @@
+# =========================================================================
+# Robots.txt for Divine Kahaniyan
+# https://divinekahaniyanentertainment.github.io/divine-kahaniyan/
+# =========================================================================
+
+User-agent: *
+Allow: /
+Disallow: /config.js
+Disallow: /.env*
+
+# Sitemap location
+Sitemap: https://divinekahaniyanentertainment.github.io/divine-kahaniyan/sitemap.xml
