@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://divinekahaniyanentertainment.github.io/divine-kahaniyan/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-18T10:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://divinekahaniyanentertainment.github.io/divine-kahaniyan/logo.jpeg</image:loc>
-      <image:title>Divine Kahaniyan Logo</image:title>
-      <image:caption>Divine Kahaniyan - दिल को छू लेने वाली हिंदी कहानियाँ</image:caption>
-    </image:image>
   </url>
 </urlset>
